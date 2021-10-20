@@ -8,6 +8,7 @@ public class ShellSort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// Shell Sorting
 		
 		
 		int[] intArray = { 20,35, -15, 7, 55,1,-22};
