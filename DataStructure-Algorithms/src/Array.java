@@ -9,7 +9,7 @@ public class Array {
 		// TODO Auto-generated method stub
 		// Updated
 		
-		String name = "Hellow World";
+		 
 
 	}
 
