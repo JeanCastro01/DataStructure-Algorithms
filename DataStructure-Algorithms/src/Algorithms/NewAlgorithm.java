@@ -15,6 +15,7 @@ public class NewAlgorithm {
 		// teste
 		System.out.println("Test");
 		System.out.println("Test");
+		System.out.println("Test");
 	}
 
 }
