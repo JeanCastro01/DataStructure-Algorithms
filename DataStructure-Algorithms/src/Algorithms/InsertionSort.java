@@ -39,6 +39,7 @@ public class InsertionSort {
 			
 			
 			System.out.println(intArray[i]);
+			//ok
 		}
 		
 		
